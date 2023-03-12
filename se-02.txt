@@ -5,11 +5,11 @@ algoritma: makan roti panggang
  	   saya ada dikamar
 1. Mulai
 2. Pergi ke dapur
-3. siapkan roti dan piring
-4. kasih selai
+3. siapkan roti, mentega, ceres dan piring
+4. oleskan mentega dan taburkan ceres di dalam roti
 5. panggang roti
-6. angkat roti
-7. makan roti
-8. selesai 
+6. tunggu roti matang
+7. ambil roti 
+8. roti siap dihidangkan
 
 
