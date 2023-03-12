@@ -1,0 +1,15 @@
+nama: Yolanda Agustin
+url profile github: github.com/agustinyoland
+algoritma: makan roti panggang
+	   rotinya ada didapur
+ 	   saya ada dikamar
+1. Mulai
+2. Pergi ke dapur
+3. siapkan roti dan piring
+4. kasih selai
+5. panggang roti
+6. angkat roti
+7. makan roti
+8. selesai 
+
+
